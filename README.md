@@ -125,7 +125,7 @@ Through this project, I gained practical experience in:
 
 Sneha Parishwad
 
-BCA Student | Aspiring Data Analyst
+Data Analyst | Front-End & UI/UX Developer | AI Tech Enthusiast
 
 ## 🙏 Acknowledgement
 
